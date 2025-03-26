@@ -1,5 +1,5 @@
 # Exploratory Data Analysis 
-EDA on Chocolate Sales Data:
+EDA Steps:
 1. Handling Missing Values
 2. Handling Categorial Variables
 3. One Hot Encoding
